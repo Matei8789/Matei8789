@@ -14,7 +14,6 @@ I’m Matei — a programmer focused on embedded systems and mobile development.
 - 🔭 Focus areas: ESP32, Arduino, Android
 - 🌱 Continuously learning new tools and techniques in embedded and mobile development
 - 💬 Ask me about: microcontrollers, IoT projects, Android apps, quick prototyping
-- 📫 Contact: [matei2016.ro@gmail.com](mailto:matei2016.ro@gmail.com)
 
 ---
 
@@ -42,7 +41,6 @@ I’m Matei — a programmer focused on embedded systems and mobile development.
 ---
 
 ## Contact & links
-- Email: [matei2016.ro@gmail.com](mailto:matei2016.ro@gmail.com)
 - GitHub: https://github.com/Matei8789
 
 (If you want LinkedIn, website, Twitter, Mastodon, or other links added, send them and I’ll include them here.)
@@ -55,4 +53,4 @@ I’m Matei — a programmer focused on embedded systems and mobile development.
 
 ---
 
-Thanks for visiting — if you'd like to collaborate or see specific project write-ups, drop me a message at the email above.
+Thanks for visiting — if you'd like to collaborate or see specific project write-ups, open an issue on a repo or send a message via GitHub.
